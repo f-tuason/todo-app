@@ -1,4 +1,4 @@
-# TODO APP
+# Todo App
 
 ## Todos
 
